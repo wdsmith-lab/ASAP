@@ -1,0 +1,50 @@
+## MOD_ACL_1969_CORVETTE
+
+```json
+{
+  "Asset ID": "MOD_ACL_1969_CORVETTE",
+  "Asset Title": "1969 Chevrolet Corvette (ACL GT Classics by Bazza)",
+  "Mod Type": "Car",
+  "Simulator": "Assetto Corsa",
+  "Author": "Bazza (ACL Team)",
+  "Contributor(s)": "",
+  "Initial Source URL": "https://thracing.de/ac-legends-gt-classics-by-bazza/",
+  "Known Mirrors": [],
+  "Upload Date": "",
+  "Creation Year (Est.)": "2020",
+  "Status": "Preserved",
+  "License/Distribution Terms": "Freeware \u2013 Redistributable with credit",
+  "Description": "A lovingly recreated 1969 Corvette as part of Bazza's ACL GT Classics pack for Assetto Corsa. Features authentic physics, sounds, and liveries.",
+  "File Name": "acl_corvette_1969.7z",
+  "File Type": "7z Archive",
+  "File Size": "",
+  "Checksum (SHA256)": "",
+  "File Structure Notes": "Archive includes car directory with data, textures, sound, and ui folders. Multiple liveries included.",
+  "Duplicate Flag": "No",
+  "Extraction Test Status": "Untested",
+  "Tags": [
+    "ACL",
+    "GT Classics",
+    "Vintage",
+    "1960s",
+    "Chevrolet",
+    "Corvette"
+  ],
+  "Series / Era": "GT Classics / 1960s",
+  "Region": "USA",
+  "Vehicle Type": "Touring Car",
+  "Track Type": "",
+  "External References": [
+    "https://www.youtube.com/watch?v=tFjDp4irE50"
+  ],
+  "Notes": "Part of the popular Bazza ACL pack. Frequently updated historically. Excellent quality and community favorite.",
+  "Submission Type": "Initial Seed",
+  "Submitted By": "WillDeeEss",
+  "Contact Info (Internal)": "william.darren@gmail.com",
+  "Is Collection": false,
+  "Collection ID": "COLL_ACL_BAZZA_GTCLASSICS",
+  "Collection Name": "ACL GT Classics by Bazza",
+  "Collection Author": "Bazza",
+  "Contains Assets": []
+}
+```

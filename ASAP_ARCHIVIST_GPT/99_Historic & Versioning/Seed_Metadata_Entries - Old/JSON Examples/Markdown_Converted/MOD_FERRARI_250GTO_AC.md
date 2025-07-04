@@ -1,0 +1,54 @@
+## MOD_FERRARI_250GTO_AC
+
+```json
+{
+  "Asset ID": "MOD_FERRARI_250GTO_AC",
+  "Asset Title": "Ferrari 250 GTO (v1.2) \u2013 Assetto Corsa",
+  "Mod Type": "Car",
+  "Simulator": "Assetto Corsa",
+  "Author": "Gilles75, updated by Legion",
+  "Contributor(s)": "Mod review and tuning by A3DR, sound pack contributed by SimDream",
+  "Initial Source URL": "https://perendinator.blogspot.com/p/legion-cars.html",
+  "Known Mirrors": [
+    "https://mega.nz/folder/Wg53HaKR#X_pYZlo3HpTzFmgP9K0sYg",
+    "https://www.racedepartment.com/downloads/ferrari-250-gto-legion-edition.39876/"
+  ],
+  "Upload Date": "",
+  "Creation Year (Est.)": "2020",
+  "Status": "Preserved",
+  "License/Distribution Terms": "Freeware \u2013 Distributed with attribution across trusted sim mod channels. Redistributable.",
+  "Description": "This elegant recreation of the iconic 1962 Ferrari 250 GTO balances aesthetics and physics with surprising accuracy. Original model by Gilles75, with community refinements.",
+  "File Name": "ferrari_250gto_legion_v1.2.zip",
+  "File Type": "ZIP Archive",
+  "File Size": "",
+  "Checksum (SHA256)": "",
+  "File Structure Notes": "Standard layout under 'content/cars/ferrari_250gto'. Includes UI folder, skin variants, sound files, and readable README file.",
+  "Duplicate Flag": "No",
+  "Extraction Test Status": "Passed",
+  "Tags": [
+    "Ferrari",
+    "1960s",
+    "Legion",
+    "Classic",
+    "Historic",
+    "GTO"
+  ],
+  "Series / Era": "GT Classics / 1960s",
+  "Region": "Italy",
+  "Vehicle Type": "GT",
+  "Track Type": "",
+  "External References": [
+    "https://www.ferrari.com/en-EN/auto/250-gto",
+    "https://en.wikipedia.org/wiki/Ferrari_250_GTO"
+  ],
+  "Notes": "This version has been widely circulated and praised in the sim racing community. Included here as an exemplary classic GT car mod. Functional in both single player and multiplayer.",
+  "Submission Type": "Initial Seed",
+  "Submitted By": "WillDeeEss",
+  "Contact Info (Internal)": "william.darren@gmail.com",
+  "Is Collection": false,
+  "Collection ID": "",
+  "Collection Name": "",
+  "Collection Author": "",
+  "Contains Assets": []
+}
+```

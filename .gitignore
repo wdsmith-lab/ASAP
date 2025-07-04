@@ -1,0 +1,15 @@
+
+# Obsidian-specific files to ignore
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/plugins/*/data.json
+
+# System-specific clutter
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Optional: logs or backups
+*.log
+*.bak

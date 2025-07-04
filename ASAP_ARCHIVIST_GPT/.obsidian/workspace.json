@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "39071d2589eec832",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e5f656d7bfddd3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb2a3a731563956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "961bf0ad2d3dd47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Schema/Seed_Metadata_Entries/ASAP_Metadata_Example_Bazza_Corvette.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASAP_Metadata_Example_Bazza_Corvette"
+            }
+          },
+          {
+            "id": "2a643e690a274e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1233d68c15297b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555642f00f9dd70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASAP_Mission_and_Ethos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASAP_Mission_and_Ethos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfe6227cd622dc1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "450bbb5dbbe19626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a63fb0713870238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "109c9fefbaebd2bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b3fcd51df41efcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0dc9862489dbc97",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba7a6ef61b114ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79003583cfe5c50b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ASAP_Mission_and_Ethos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ASAP_Mission_and_Ethos"
+            }
+          },
+          {
+            "id": "f517911671d81772",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ASAP_Mission_and_Ethos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ASAP_Mission_and_Ethos"
+            }
+          },
+          {
+            "id": "2f7dbb27c74d2b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eaecabe73fbaa314",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ASAP_Mission_and_Ethos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ASAP_Mission_and_Ethos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a643e690a274e14",
+  "lastOpenFiles": [
+    "ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt.md",
+    "README.md",
+    "01_Schema/Metadata_Schema_Index.md",
+    "ASAP_Metadata_Schema_v1.1-Obsolete.md",
+    "01_Schema/ASAP_Metadata_Schema_v1.1.md",
+    "ASAP_Mission_and_Ethos.md",
+    "01_Schema/Seed_Metadata_Entries/ASAP_Metadata_Example_Bazza_Corvette.md",
+    "01_Schema/Seed_Metadata_Entries/ASAP_Metadata_Schema_Targa_Abulzz_Example.md",
+    "Welcome.md",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples/MOD_TARGA73_ABULZZ_AC.json",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples/NOTE_TRACK_SRP_C1_LOOP.json",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples/MOD_FERRARI_250GTO_AC.json",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples/MOD_ACU_BATHURST_MTP.json",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples/MOD_ACL_1969_CORVETTE.json",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples/LIVERYPACK_GT40_CLASSIC_AC.json",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples/COLLECTION_MISC_CARPACK_001.json",
+    "01_Schema/Seed_Metadata_Entries/JSON Examples",
+    "01_Schema/Seed_Metadata_Entries/ASAP_Metadata_Schema_Targa_Abulzz_Example.docx",
+    "01_Schema/Seed_Metadata_Entries/ASAP_Metadata_Example_Bazza_Corvette.docx"
+  ]
+}

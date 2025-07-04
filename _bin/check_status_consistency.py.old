@@ -1,0 +1,37 @@
+import os
+import re
+
+def extract_status_from_filename(filename):
+    match = re.search(r'_([A-Z]+)\.md$', filename)
+    return match.group(1).capitalize() if match else None
+
+def extract_status_from_content(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.strip().lower().startswith('status:'):
+                return line.strip().split(':', 1)[1].strip().capitalize()
+    return None
+
+def validate_markdown_status(folder):
+    print(f"Checking .md files in: {folder}")
+    for filename in os.listdir(folder):
+        if filename.endswith(".md"):
+            file_status = extract_status_from_filename(filename)
+            path = os.path.join(folder, filename)
+            content_status = extract_status_from_content(path)
+
+            if file_status and content_status:
+                if file_status != content_status:
+                    print(f"❌ Mismatch in '{filename}': filename='{file_status}', content='{content_status}'")
+                else:
+                    print(f"✅ '{filename}' is consistent.")
+            elif file_status:
+                print(f"⚠️  '{filename}' has a filename status but no internal status.")
+            elif content_status:
+                print(f"⚠️  '{filename}' has an internal status but no filename status.")
+            else:
+                print(f"ℹ️  '{filename}' has no detectable status.")
+
+# Example usage
+if __name__ == '__main__':
+    validate_markdown_status('.')
