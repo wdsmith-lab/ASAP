@@ -13,6 +13,8 @@ def extract_status_from_filename(filename):
 def extract_status_from_yaml(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         lines = f.readlines()
+    if not lines:
+        return None
     if lines[0].strip() == '---':
         yaml_lines = []
         for line in lines[1:]:
