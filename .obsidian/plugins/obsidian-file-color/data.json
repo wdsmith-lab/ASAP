@@ -1,0 +1,72 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Az7NJLy51NhBQE1gnXv3m",
+      "name": "Sage green",
+      "value": "#bcb88a"
+    },
+    {
+      "id": "dmqE727Cnw4pL-_1cCuSp",
+      "name": "Pale yellow",
+      "value": "#ffffe0"
+    },
+    {
+      "id": "gNAANcjIg8L6PJ8JT_Ozh",
+      "name": "Lavender",
+      "value": "#e6e6fa"
+    },
+    {
+      "id": "EjGKk-7niD7xOD47EB4r1",
+      "name": "",
+      "value": "#b24d4d"
+    },
+    {
+      "id": "u2yJ7W82mUlrEnHKj3ao6",
+      "name": "",
+      "value": "#c87a4c"
+    },
+    {
+      "id": "qh54tMBdfgeXEdHkFIufd",
+      "name": "",
+      "value": "#fcf7cf"
+    },
+    {
+      "id": "IhyOxPIq_tFh1TPPQb_FP",
+      "name": "",
+      "value": "#dec463"
+    },
+    {
+      "id": "h3ah56bP7A8TeGoLgjIQN",
+      "name": "",
+      "value": "#3e4d5f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "ARCHIVIST-CONSULTANT",
+      "color": "IhyOxPIq_tFh1TPPQb_FP"
+    },
+    {
+      "path": "TECHNICAL-CONSULTANT",
+      "color": "Az7NJLy51NhBQE1gnXv3m"
+    },
+    {
+      "path": "ASAP_ARCHIVIST_GPT",
+      "color": "EjGKk-7niD7xOD47EB4r1"
+    },
+    {
+      "path": "_bin/check_status_consistency.md",
+      "color": "Az7NJLy51NhBQE1gnXv3m"
+    },
+    {
+      "path": "_etc",
+      "color": "Az7NJLy51NhBQE1gnXv3m"
+    },
+    {
+      "path": "_bin",
+      "color": "Az7NJLy51NhBQE1gnXv3m"
+    }
+  ]
+}

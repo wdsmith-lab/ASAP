@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "6e035d6b257fdc8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37aae1314c9dfb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d24268012a670ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Schema_v1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASAP_Metadata_Schema_v1.1"
+            }
+          },
+          {
+            "id": "740841e7d7645fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL-CONSULTANT/ASAP_TECHNICAL-CONSULTANT Seed Prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASAP_TECHNICAL-CONSULTANT Seed Prompt"
+            }
+          },
+          {
+            "id": "17d7768a1f214d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL-CONSULTANT/_etc/Clarification Questions Round 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clarification Questions Round 1"
+            }
+          },
+          {
+            "id": "fc7247c85ed3bafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARCHIVIST-CONSULTANT/ARCHIVIST_GPT_Daily_Briefing 2025-06-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARCHIVIST_GPT_Daily_Briefing 2025-06-29"
+            }
+          },
+          {
+            "id": "3f91ef59591b469d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARCHIVIST-CONSULTANT/_etc/ASAP_Short_Term_Roadmap_Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASAP_Short_Term_Roadmap_Checklist"
+            }
+          },
+          {
+            "id": "20f11c611a75555f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASAP_ARCHIVIST_GPT/01_Schema/Seed_Metadata_Entries - Old/JSON Examples/Markdown_Converted/COLLECTION_MISC_CARPACK_001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COLLECTION_MISC_CARPACK_001"
+            }
+          },
+          {
+            "id": "9c29fe1c8e11aefa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASAP_Mission_and_Ethos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASAP_Mission_and_Ethos"
+            }
+          },
+          {
+            "id": "ee59e2b2cbd01174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL-CONSULTANT/_etc/30 min plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30 min plan"
+            }
+          },
+          {
+            "id": "f12ebee7a9761443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Schema_CHANGELOG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASAP_Metadata_Schema_CHANGELOG"
+            }
+          },
+          {
+            "id": "fb2013b48f280b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARCHIVIST-CONSULTANT/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "748c2f86482b62e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-04"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15acd3b81d063f9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e757ba2c57e0db02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b15ea54a628b13a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f716863a17647db5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3cbb776b4ba9cafd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.5
+  },
+  "right": {
+    "id": "a1a5c5ec82118044",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ade07463410f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1b7d91fe981776b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ASAP_GPT-ARCHIVIST-CONSULTANT/ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt"
+            }
+          },
+          {
+            "id": "410923451ae7588b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ASAP_GPT-ARCHIVIST-CONSULTANT/ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt"
+            }
+          },
+          {
+            "id": "df33d794f4bb359c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "760598db2d30e814",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ASAP_GPT-ARCHIVIST-CONSULTANT/ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "748c2f86482b62e3",
+  "lastOpenFiles": [
+    "2025-07-03.md",
+    "2025-07-04.md",
+    "_bin/check_status_consistency.md",
+    "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Schema_Locking_Checklist.md",
+    "ARCHIVIST-CONSULTANT/Documents/ARCHIVIST_GPT_Roadmap_2025-07-03.md",
+    "ARCHIVIST-CONSULTANT/Documents/ARCHIVIST_GPT_Daily_Briefing 2025-06-29.md",
+    "ASAP_ARCHIVIST_GPT/00_CORE/ARCHIVIST_GPT_README.md",
+    "README.md",
+    "ARCHIVIST-CONSULTANT/README.md",
+    "ASAP_Mission_and_Ethos.md",
+    "ARCHIVIST-CONSULTANT/ASAP_GPT-ARCHIVIST-CONSULANT Seed Prompt.md",
+    "ASAP_ARCHIVIST_GPT/00_CORE/ARCHIVIST_Role_Scope_Boundaries_v1.2.md",
+    "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Schema_v1.3_DRAFT.md",
+    "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Schema_v1.2_LOCKED.md",
+    "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Schema_CHANGELOG.md",
+    "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Field_Level_Guidance_Table.md",
+    "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Schema_v1.1.md",
+    "ASAP_ARCHIVIST_GPT/01_Schema/ASAP_Metadata_Schema_Index.md",
+    "TECHNICAL-CONSULTANT/_etc/Clarification Questions Round 2.md",
+    "TECHNICAL-CONSULTANT/_etc/Clarification Questions Round 1.md",
+    "TECHNICAL-CONSULTANT/_etc/30 min plan.md",
+    "TECHNICAL-CONSULTANT/ASAP_TECHNICAL-CONSULTANT_Role_Overview.md",
+    "TECHNICAL-CONSULTANT/ASAP_TECHNICAL-CONSULTANT Seed Prompt.md",
+    "ARCHIVIST-CONSULTANT/Documents/Handoffs/techlog_2026-07-02.md",
+    "ARCHIVIST-CONSULTANT/Documents/YAML Frontmatter Template for ASAP Files.md",
+    "_etc/contentReference.md",
+    "ARCHIVIST-CONSULTANT/Documents/Handoffs",
+    "ARCHIVIST-CONSULTANT/Documents",
+    "_bin/check_status_consistency.py",
+    "_bin/check_status_consistency_enhanced.py",
+    "_bin/check_status_consistency.py.old",
+    "ASAP_ARCHIVIST_GPT/04_Tests/Prompt_Module_Examples",
+    "ASAP_ARCHIVIST_GPT/04_Tests",
+    "ASAP_ARCHIVIST_GPT/01_Schema/Seed_Metadata_Entries/COLL_ACL_BAZZA_GTCLASSICS.json",
+    "ASAP_ARCHIVIST_GPT/01_Schema/Seed_Metadata_Entries/ASAP_Seed_Metadata_Entries_Bundle_v1.2/MOD_ACL_1969_CORVETTE.json",
+    "ASAP_ARCHIVIST_GPT/01_Schema/Seed_Metadata_Entries/ASAP_Seed_Metadata_Entries_Bundle_v1.2/COLL_ACL_BAZZA_GTCLASSICS.json"
+  ]
+}
