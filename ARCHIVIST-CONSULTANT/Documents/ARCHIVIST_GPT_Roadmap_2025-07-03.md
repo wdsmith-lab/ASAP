@@ -25,13 +25,13 @@
 
 > Target: July 3–10
 
-- [ ] Add YAML-aware logic to prompt module outputs (optional frontmatter)
+- [x] Add YAML-aware logic to prompt module outputs (optional frontmatter)
 - [ ] Add more examples for non-AC simulators (e.g., rFactor, AMS1, GPL)
-- [ ] Document versioning policies for metadata entries
-- [ ] Define how ARCHIVIST should respond to schema version mismatch
-- [ ] Update README to reflect locked schema state + v1.3 staging
-- [ ] Consider `duplicate_flag` enforcement logic (early detection & override flow)
-- [ ] Draft input templates or intake forms for human-assisted submissions
+- [x] Document versioning policies for metadata entries
+- [x] Define how ARCHIVIST should respond to schema version mismatch
+- [x] Update README to reflect locked schema state + v1.3 staging
+- [x] Consider `duplicate_flag` enforcement logic (early detection & override flow)
+- [x] Draft input templates or intake forms for human-assisted submissions
 
 ---
 

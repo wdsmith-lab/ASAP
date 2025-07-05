@@ -4,7 +4,7 @@
 **Status**: Active  
 **Maintainer**: WillDeeEss  
 **Location**: 00_CORE/ARCHIVIST_GPT_README.md  
-**Date**: 2025-07-01  
+**Date**: 2025-07-03  
 
 ---
 
@@ -20,12 +20,25 @@ Its function is archival in nature: to help preserve at-risk or scattered sim ra
 
 ARCHIVIST operates under strict schema alignment and structured prompt module logic:
 
-- Validates all entries against ASAP Metadata Schema (currently v1.2)
+- Validates all entries against the **locked** ASAP Metadata Schema v1.2
 - Applies preservation-aware logic (e.g., risk inference, license tagging)
 - Distinguishes between mod types: Cars, Tracks, Liveries, Collections, etc.
 - Operates in cooperation with TECHNICAL-CONSULTANT and CONSULTANT
+- Supports YAML frontmatter in output (optional)
 
 ARCHIVIST is schema-aware but not schema-defining.
+
+---
+
+## 📐 Schema Status
+
+- ✅ `ASAP_Metadata_Schema_v1.2` is **LOCKED**
+  - Location: `01_Schema/ASAP_Metadata_Schema_v1.2_LOCKED.md`
+  - YAML frontmatter now included
+
+- 🧪 Schema v1.3 is in early staging
+  - New fields under consideration: `curator_notes`, expanded mod type logic, changelog support
+  - Track staging in: `01_Schema/ASAP_Metadata_Schema_v1.3_DRAFT.md` and `ARCHIVIST-CONSULTANT/Standards/`
 
 ---
 
@@ -41,8 +54,6 @@ ARCHIVIST is schema-aware but not schema-defining.
 | `summarize_metadata_entry`| Outputs a narrative-style mod summary based on existing metadata |
 | `validate_metadata_entry` | Checks an entry for schema compliance and required fields |
 
-Prompt modules are stored in `03_Prompt_Modules/` and documented individually.
-
 ---
 
 ## 🧪 Testing & Examples
@@ -57,17 +68,24 @@ Each test includes:
 - ✅ Module and schema version
 - ✅ Commentary on expected behavior
 
-These can be used to regression test future ARCHIVIST versions or validate vault compliance.
-
 ---
 
 ## ⚠️ Limitations (v1.0)
 
-- Metadata schema locking must be enforced externally (no in-GPT enforcement)
+- Metadata schema locking must be enforced externally (now documented)
 - No database connection or automatic entry persistence (yet)
 - Simulator support is Assetto Corsa-focused during early phases
-- No native schema drift detection
-- Entry versioning is manual
+- Entry versioning is manual (policy now documented)
+- Schema version mismatch handling is enforced by logic, not runtime schema introspection
+
+---
+
+## 📘 YAML Frontmatter (New Guidance)
+
+- Some `.md` files in the vault now use YAML frontmatter for metadata hygiene
+- Fields: `schema_version`, `status`, `last_updated`, `title`
+- Optional for metadata entries; currently used in schemas, changelogs, standards
+- Prompt modules may output frontmatter on request, but default to JSON/Markdown
 
 ---
 
@@ -76,12 +94,15 @@ These can be used to regression test future ARCHIVIST versions or validate vault
 - `ASAP_TECHNICAL-CONSULTANT` for scripting and schema tooling
 - `ASAP_ARCHIVIST-CONSULTANT` (this role) for development design and documentation
 
-
 ---
 
-## 📘 YAML Frontmatter (New Guidance)
+## 📥 Intake Templates
 
-- Some vault `.md` files now include YAML frontmatter for metadata consistency.
-- These fields include: `schema_version`, `status`, `last_updated`, `title`.
-- Prompt modules are not yet required to use this format but may adopt it in future versions.
-- For structured files like schemas and changelogs, frontmatter should reflect vault status and schema versioning info.
+To assist human contributors and facilitate ARCHIVIST module submissions, two intake templates are provided in:
+
+📁 `ASAP_ARCHIVIST-GPT/Templates/`
+
+- `ASAP_Metadata_Intake_Template.md` – a Markdown form curators can fill manually in Obsidian or Git workflows.
+- `ASAP_Metadata_Intake_Promptable.txt` – a lightweight version meant for copy-paste into ARCHIVIST GPT.
+
+These templates help standardize inputs, reduce drift, and prepare data for conversion to schema-compliant entries.

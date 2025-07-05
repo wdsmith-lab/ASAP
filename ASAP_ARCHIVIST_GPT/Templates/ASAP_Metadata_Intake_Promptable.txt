@@ -1,0 +1,30 @@
+🧾 ASAP Metadata Intake – Paste this into GPT (ARCHIVIST)
+
+Fill in as much as you can. ARCHIVIST will assist with the rest.
+
+---
+
+Asset Title:  
+Mod Type:  
+Simulator:  
+Author:  
+Contributors:  
+Initial Source URL:  
+Known Mirrors:
+- 
+File Name:  
+File Type:  
+Upload Date:  
+Creation Year (Est.):  
+License/Distribution Terms:  
+Status:  
+Preservation Risk:  
+Last Verified:  
+Series / Era:  
+Region:  
+Vehicle Type:  
+Track Type:  
+Tags:  
+Description:  
+Curator Notes:  
+Notes:  
