@@ -24,12 +24,12 @@ python3 check_status_consistency.py [folder] [options]
 
 ### Options:
 
-| Option              | Description                                     |
-|---------------------|-------------------------------------------------|
-| `--format`          | `auto` (default), `yaml`, or `markdown`         |
-| `--non-recursive`   | Limit to a single folder                        |
-| `--json`            | Output results as JSON                          |
-| `--out <file>`      | Write JSON output to specified file             |
+| Option            | Description                             |
+| ----------------- | --------------------------------------- |
+| `--format`        | `auto` (default), `yaml`, or `markdown` |
+| `--non-recursive` | Limit to a single folder                |
+| `--json`          | Output results as JSON                  |
+| `--out <file>`    | Write JSON output to specified file     |
 
 ---
 

@@ -22,6 +22,10 @@ check-status format="auto":
 check-status-json format="auto":
     python3 _bin/check_status_consistency.py . --format {{format}} --json
 
+# Lint all Markdown files using markdownlint-cli
+lint:
+    npx markdownlint "**/*.md"
+
 # Open Obsidian from vault root (if obsidian CLI is installed)
 obsidian:
     obsidian .
